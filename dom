@@ -1,0 +1,15 @@
+/* HTML
+id: unico en el html
+class: agrupa elementos
+name: input, button (form)
+
+button => click
+*/
+
+/*
+Eventos: respuestas a las acciones 
+.onClick
+.onChange
+El DOM es la estructura del HTML (jerarquia)
+*/
+

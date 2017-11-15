@@ -1,0 +1,50 @@
+header {
+	background-color: black;
+	height: 200px;
+	color: white;
+}
+
+img {
+	padding-top: 25px;
+}
+
+button {
+	margin: 20px;
+}
+
+div .violeta {
+	height: 500px;
+	background-color: violet;
+	margin-top: 50px;
+}
+
+div .azul {
+	background-color: blue;
+	margin: 20px 0px;
+}
+
+#gr {
+	display: flex;
+	justify-content: space-between;
+}
+div .verde {
+	height: 550px;
+	width: 300px;
+	background-color: green;
+}
+
+#gato {
+	float: right;
+	padding: 25px 0px;
+}
+
+footer {
+	margin: 20px 0px;
+	background-color: yellow;
+}
+
+iframe {
+	float: left;
+	padding: 20px 0px;
+}
+

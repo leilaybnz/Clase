@@ -1,0 +1,2 @@
+Padding: area interna del div, suma a la caja
+Div de 100px, 10 px de borders (left y right), padding de 20 px de cada lado, y margin de 1 px: caja 162px.
